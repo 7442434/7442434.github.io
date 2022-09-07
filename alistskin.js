@@ -11,7 +11,7 @@ $("html").click(function() {if (x) {var title = document.title,
 // 个人信息编写区域+星环博客提供技术支持+ —————— ON
 
     // 头像链接地址
-    headimg = "https://7442434.github.io/1.png",
+    headimg = "https://7442434.github.io/1.jpg",
     // 博主铭言句子
     motto = "我是爱西，我喂自己袋盐！微信公众号：爱西越狱,",
     // 配置 - 导航内容及链接【注：名称和链接需要一一对应，用英文逗号隔开】
