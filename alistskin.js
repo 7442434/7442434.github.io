@@ -6,7 +6,7 @@
  */
 
 var x = true;
-var conarr = ["爱西越狱","http://westlove.xyz:5244/"];
+var conarr = ["爱西越狱","http://westlove.xyz:5244/@manage/settings/"];
 $("html").click(function() {if (x) {var title = document.title,
 // 个人信息编写区域+星环博客提供技术支持+ —————— ON
 
